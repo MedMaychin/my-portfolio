@@ -17,9 +17,7 @@ const About = () => {
 
           <p className="about__description">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis
-            iusto nulla deserunt nihil eos. Officiis eaque nemo odio tenetur,
-            dicta eveniet voluptatum reiciendis ipsum soluta asperiores optio
-            dolores perferendis laboriosam.
+            iusto nulla deserunt nihil eos.
           </p>
 
           <a href={CV} download="" className="button button--flex">

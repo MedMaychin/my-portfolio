@@ -4,7 +4,7 @@ function Data() {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        Med Maychine
+        Med MAYCHINE
         <svg
           width="36"
           height="36"
@@ -56,12 +56,10 @@ function Data() {
         </svg>
       </h1>
 
-      <h3 className="home__subtitle">Web Developer</h3>
+      <h3 className="home__subtitle">Full Stack Developer</h3>
       <p className="home__description">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid natus
-        nisi.
+        I am a developer and web designer currently living in casablanca, passionate about new technologies
       </p>
-
 
       <a href="#contact" className="button button--flex">
         Say Hello
